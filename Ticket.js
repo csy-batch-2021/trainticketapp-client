@@ -6,5 +6,4 @@ class Ticket{
     }
 }
 
-const _Ticket = Ticket;
-export { _Ticket as Ticket };
+exports.Ticket = Ticket;

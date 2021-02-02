@@ -18,5 +18,4 @@ class TicketAPI {
 }
 
 
-const _TicketAPI = TicketAPI;
-export { _TicketAPI as TicketAPI };
+exports.TicketAPI = TicketAPI;
